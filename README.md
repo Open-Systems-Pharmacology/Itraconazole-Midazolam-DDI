@@ -1,7 +1,9 @@
 # Itraconazole-Midazolam-DDI
 Modeling of published clinical Itraconazole-Midazolam-DDI studies for model evaluation 
 
-![gim](https://github.com/Open-Systems-Pharmacology/Itraconazole-Midazolam-DDI/blob/master/Itraconazole-Midazolam-DDI.png)
+<p align="center">
+  <img src="Itraconazole-Midazolam-DDI.png">
+</p>
 
 ## Repository files
 Within this repository, we distribute a PK-Sim project file containing simulations of all published clinical studies used to evaluate the predictive performance of our models regarding the Itraconazole-Midazolam-DDI, including the respective observed data digitized from literature reports. The applied itraconazole model is an improved version of the itraconazole/hydroxy-itraconazole compound template provided in PK-Sim; the compound template will be updated as soon as possible. For further details and documentation please refer to [[1](#reference)]. 
