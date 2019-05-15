@@ -886,8 +886,13 @@
           "Parameters": [
             {
               "Name": "Solubility at reference pH",
-              "Value": 0.69,
-              "Unit": "mg/l"
+              "Value": 0.9728307177,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Capsule fasted' on 2019-05-15 12:25"
+              }
             },
             {
               "Name": "Reference pH",
@@ -1995,8 +2000,13 @@
       "Parameters": [
         {
           "Name": "Dissolution time (50% dissolved)",
-          "Value": 406.64,
-          "Unit": "min"
+          "Value": 406.3001802552,
+          "Unit": "min",
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'Capsule fasted' on 2019-05-15 12:25"
+          }
         },
         {
           "Name": "Lag time",
@@ -2005,7 +2015,12 @@
         },
         {
           "Name": "Dissolution shape",
-          "Value": 1.1
+          "Value": 1.4297720052,
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'Capsule fasted' on 2019-05-15 12:25"
+          }
         },
         {
           "Name": "Use as suspension",
