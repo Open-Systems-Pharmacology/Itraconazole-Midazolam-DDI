@@ -1,14 +1,12 @@
 # Itraconazole-Midazolam-DDI
 Modeling of published clinical Itraconazole-Midazolam-DDI studies for model evaluation 
 
-
-## Repository files
 Within this repository, we distribute a PK-Sim project file containing simulations of published clinical studies used to evaluate the predictive performance of our models regarding the Itraconazole-Midazolam-DDI, including the respective observed data digitized from literature reports.
 
 The reference model repositories can be found here:
 
-- Itraconazole and metabolites [[1](#reference)]
-- Midazolam [[2](#reference)]
+- Itraconazole and metabolites [[1](#references)]
+- Midazolam [[2](#references)]
 
 ## Code of conduct
 Everyone interacting in the Open Systems Pharmacology community (codebases, issue trackers, chat rooms, mailing lists etc...) is expected to follow the Open Systems Pharmacology [code of conduct](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct).
@@ -19,7 +17,7 @@ We encourage contribution to the Open Systems Pharmacology community. Before get
 ## License
 The model code is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
 
-## Reference
+## References
 [1] [Itraconazole OSP PBPK model](https://github.com/Open-Systems-Pharmacology/Itraconazole-Model)
 
 [2] [Midazolam OSP PBPK model](https://github.com/Open-Systems-Pharmacology/Midazolam-Model)
