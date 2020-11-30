@@ -1,5 +1,5 @@
 {
-  "Version": 76,
+  "Version": 77,
   "Individuals": [
     {
       "Name": "European (P-gp modified, CYP3A4 36 h)",
@@ -88,12 +88,22 @@
           },
           "Parameters": [
             {
+              "Name": "Reference concentration",
+              "Value": 4.32,
+              "Unit": "µmol/l"
+            },
+            {
               "Name": "t1/2 (liver)",
               "Value": 36.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -203,6 +213,23 @@
             {
               "Name": "ColonSigmoid",
               "Value": 0.00010384615385
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Reference concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -592,6 +619,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -634,6 +671,23 @@
               "Name": "Muscle",
               "MembraneLocation": "Basolateral",
               "Value": 0.00064682539683
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Reference concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -749,6 +803,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -779,6 +843,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -802,6 +876,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         }
@@ -918,6 +1002,11 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -1027,6 +1116,23 @@
             {
               "Name": "ColonSigmoid",
               "Value": 0.00010384615385
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Reference concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -1416,6 +1522,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -1458,6 +1574,23 @@
               "Name": "Muscle",
               "MembraneLocation": "Basolateral",
               "Value": 0.00064682539683
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Reference concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -1573,6 +1706,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -1603,6 +1746,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -1626,6 +1779,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         }
@@ -4291,7 +4454,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -4393,6 +4557,137 @@
             },
             {
               "Name": "End time",
+              "Value": 2.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 2.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 26.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 26.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 74.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 74.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 98.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 98.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 122.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 122.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
               "Value": 146.0,
               "Unit": "h",
               "ValueOrigin": {
@@ -4402,7 +4697,10 @@
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
             }
           ]
         }
@@ -4717,7 +5015,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -4747,7 +5046,8 @@
               "MetaboliteName": "Keto-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         },
@@ -4778,7 +5078,8 @@
               "MetaboliteName": "Hydroxy-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -4804,7 +5105,8 @@
               "MetaboliteName": "N-desalkyl-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         },
@@ -4820,7 +5122,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         }
@@ -5238,7 +5541,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -5328,7 +5632,32 @@
             },
             {
               "Name": "End time",
-              "Value": 190.0,
+              "Value": 74.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 74.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 98.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -5337,7 +5666,63 @@
             {
               "Name": "Resolution",
               "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 98.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 170.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
               "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 170.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 194.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
             }
           ]
         }
@@ -5637,7 +6022,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -5667,7 +6053,8 @@
               "MetaboliteName": "Keto-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         },
@@ -5698,7 +6085,8 @@
               "MetaboliteName": "Hydroxy-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -5724,7 +6112,8 @@
               "MetaboliteName": "N-desalkyl-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         },
@@ -5740,7 +6129,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         }
@@ -6147,7 +6537,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -6516,7 +6907,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -6604,7 +6996,32 @@
             },
             {
               "Name": "End time",
-              "Value": 96.0,
+              "Value": 74.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 74.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 98.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -6613,7 +7030,10 @@
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
             }
           ]
         }
@@ -6908,7 +7328,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -6938,7 +7359,8 @@
               "MetaboliteName": "Keto-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         },
@@ -6969,7 +7391,8 @@
               "MetaboliteName": "Hydroxy-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -6995,7 +7418,8 @@
               "MetaboliteName": "N-desalkyl-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         },
@@ -7011,7 +7435,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         }
@@ -7407,7 +7832,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -7496,7 +7922,7 @@
             },
             {
               "Name": "End time",
-              "Value": 24.0,
+              "Value": 28.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -7785,7 +8211,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -7815,7 +8242,8 @@
               "MetaboliteName": "Keto-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         },
@@ -7846,7 +8274,8 @@
               "MetaboliteName": "Hydroxy-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -7872,7 +8301,8 @@
               "MetaboliteName": "N-desalkyl-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         },
@@ -7888,7 +8318,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         }
@@ -8000,7 +8431,7 @@
             },
             {
               "Name": "End time",
-              "Value": 24.0,
+              "Value": 28.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -8289,7 +8720,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -8319,7 +8751,8 @@
               "MetaboliteName": "Keto-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         },
@@ -8350,7 +8783,8 @@
               "MetaboliteName": "Hydroxy-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -8376,7 +8810,8 @@
               "MetaboliteName": "N-desalkyl-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         },
@@ -8392,7 +8827,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         }
@@ -8514,7 +8950,7 @@
             },
             {
               "Name": "End time",
-              "Value": 24.0,
+              "Value": 28.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -8803,7 +9239,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -8833,7 +9270,8 @@
               "MetaboliteName": "Keto-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         },
@@ -8864,7 +9302,8 @@
               "MetaboliteName": "Hydroxy-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -8890,7 +9329,8 @@
               "MetaboliteName": "N-desalkyl-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         },
@@ -8906,7 +9346,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         }
@@ -9298,7 +9739,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -9381,7 +9823,7 @@
             },
             {
               "Name": "End time",
-              "Value": 24.0,
+              "Value": 72.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -9661,7 +10103,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -9750,6 +10193,31 @@
             },
             {
               "Name": "End time",
+              "Value": 72.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 72.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
               "Value": 144.0,
               "Unit": "h",
               "ValueOrigin": {
@@ -9759,7 +10227,10 @@
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
             }
           ]
         }
@@ -10059,7 +10530,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -10089,7 +10561,8 @@
               "MetaboliteName": "Keto-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         },
@@ -10120,7 +10593,8 @@
               "MetaboliteName": "Hydroxy-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -10146,7 +10620,8 @@
               "MetaboliteName": "N-desalkyl-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         },
@@ -10162,7 +10637,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         }
@@ -10177,8 +10653,6 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "Min": -1.611968,
-              "Max": 128.9027,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -10190,8 +10664,6 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "Min": 8.035227E-05,
-              "Max": 385.6641,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
@@ -10274,7 +10746,32 @@
             },
             {
               "Name": "End time",
-              "Value": 96.0,
+              "Value": 73.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 73.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 97.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -10283,7 +10780,10 @@
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
             }
           ]
         }
@@ -10578,7 +11078,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -10608,7 +11109,8 @@
               "MetaboliteName": "Keto-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         },
@@ -10639,7 +11141,8 @@
               "MetaboliteName": "Hydroxy-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -10665,7 +11168,8 @@
               "MetaboliteName": "N-desalkyl-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         },
@@ -10681,7 +11185,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         }
@@ -11083,7 +11588,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -11165,6 +11671,31 @@
             },
             {
               "Name": "End time",
+              "Value": 72.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 72.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
               "Value": 96.0,
               "Unit": "h",
               "ValueOrigin": {
@@ -11174,7 +11705,10 @@
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
             }
           ]
         }
@@ -11479,7 +12013,8 @@
               "MoleculeName": "UGT1A4"
             },
             {
-              "Name": "Glomerular Filtration-Optimized"
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
             },
             {
               "Name": "GABRG2-Buhr 1997",
@@ -11503,7 +12038,8 @@
               "MetaboliteName": "Keto-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         },
@@ -11534,7 +12070,8 @@
               "MetaboliteName": "Hydroxy-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -11560,7 +12097,8 @@
               "MetaboliteName": "N-desalkyl-Itraconazole"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         },
@@ -11576,7 +12114,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ]
         }
@@ -14928,19 +15467,19 @@
             "LLOQ": 1E-10
           },
           "Values": [
-            37.22172,
-            13.99644,
-            11.07255,
-            8.073831,
-            6.789822,
-            4.038264,
-            2.798354,
-            1.010241,
-            0.6789823,
-            0.3647093
+            0.0372217223,
+            0.01399644,
+            0.01107255,
+            0.00807383,
+            0.006789822,
+            0.004038264,
+            0.002798354,
+            0.001010241,
+            0.0006789823,
+            0.0003647093
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -15062,18 +15601,18 @@
             "LLOQ": 1E-10
           },
           "Values": [
-            41.21395,
-            18.42836,
-            12.38569,
-            8.240038,
-            5.104634,
-            2.426363,
-            1.457863,
-            0.7441859,
-            0.5209717
+            0.041213952,
+            0.01842836,
+            0.01238569,
+            0.008240038,
+            0.00510463351,
+            0.00242636283,
+            0.00145786291,
+            0.000744185934,
+            0.0005209717
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -15194,19 +15733,19 @@
             "LLOQ": 1E-10
           },
           "Values": [
-            49.5097,
-            16.9859,
-            13.99644,
-            10.31037,
-            8.849173,
-            5.05289,
-            2.885207,
-            1.565634,
-            1.277011,
-            0.8240038
+            0.0495097,
+            0.0169859,
+            0.01399644,
+            0.0103103705,
+            0.008849173,
+            0.0050528897,
+            0.002885207,
+            0.001565634,
+            0.001277011,
+            0.00082400383
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
